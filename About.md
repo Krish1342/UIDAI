@@ -44,3 +44,13 @@ Visualisation & Presentation:
 Clarity and effectiveness of data visualisations, Quality of written report or slides
 Impact & Applicability:
 Potential for social/administrative benefit, Practicality and feasibility of insights/solutions
+
+## Dataset Descriptions:
+1. Aadhaar Enrolment dataset
+This dataset provides aggregated information on Aadhaar enrolments across various demographic and geographic levels. It includes variables such as the date of enrollment, state, district, PIN code, and age-wise categories (0–5 years, 5–17 years, and 18 years and above). The dataset captures both temporal and spatial patterns of enrolment activity, enabling detailed descriptive, comparative, and trend analysis.
+
+2. Aadhaar Demographic Update dataset
+This dataset captures aggregated information related to updates made to residents’ demographic data linked to Aadhaar, such as name, address, date of birth, gender, and mobile number. It provides insights into the frequency and distribution of demographic changes across different time periods and geographic levels (state, district, and PIN code).
+
+3. Aadhaar Biometric Update dataset
+This dataset contains aggregated information on biometric updates (modalities such as fingerprints, iris, and face). It reflects the periodic revalidation or correction of biometric details, especially for children transitioning into adulthood.
