@@ -1,10 +1,10 @@
-Problem Statement: Unlocking Societal Trends in Aadhaar Enrolment and Updates
+# Problem Statement: Unlocking Societal Trends in Aadhaar Enrolment and Updates
 
 Identify meaningful patterns, trends, anomalies, or predictive indicators and translate them into clear insights or solution frameworks that can support informed decision-making and system improvements.
 
 These terms and conditions govern the Online hackathon on data-driven innovation on Aadhaar- 2026. By participating in the hackathon, one is deemed to have accepted the terms and conditions mentioned below, as well as the terms of use of the OGD Platform India.
 
-GENERAL TERMS & CONDITIONS
+## GENERAL TERMS & CONDITIONS
 
 Please read these Terms and Conditions carefully as they apply to the Hackathon. To be eligible to participate and declare as shortlisted or winners in the Hackathon, the participants must accept these Terms and Conditions:
 
@@ -21,7 +21,7 @@ The Jury’s decision shall be final and cannot be challenged.
 UIDAI reserves the right to change the terms and conditions, if required.
 The organizers reserve the right in their sole discretion to withdraw participation of any individual/team from the event or reject any submission at any point of time during the process.
 
-Submission and expectation:
+## Submission and expectation:
 Participants must submit one consolidated PDF containing the following sections:
 
 Problem Statement and Approach: A concise description of the problem being addressed and the proposed analytical or technical approach.
@@ -30,7 +30,7 @@ Methodology: A detailed explanation of the methodology adopted, including data c
 Data Analysis and Visualisation: A description of key findings and insights, and the visualisations or infographics developed. Participants must also include code files or notebooks used for the analysis (in the PDF itself).
 Note: Shortlisted teams may be asked to submit the code file/notebook separately on GitHub.
 
-Jury and Evaluation:
+## Jury and Evaluation:
 All applications will be rated on the parameters listed below:
 
 Data Analysis & Insights:
